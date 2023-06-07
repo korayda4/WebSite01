@@ -232,4 +232,12 @@ footer{
     align-items: center;
     justify-content: space-between;
 
+
+   
+}
+
+.sosyalmedya img {
+    display: inline;
+    padding-right: 30px;
+     gap: 50px;
 }
